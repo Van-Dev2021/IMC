@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(170, 8, 8);
+
+  background: url(images/clouds.jpeg) no-repeat center/cover;
+  width: 100vw;
+  min-height: 812px;
+  height: 100vh;
+
+}
+h1 {
+  color: rgb(246, 246, 114);
+  font-size: medium;
+  font-family: 'Shizuru';
+  text-align: center;
+}
+h2 {
+  color: rgb(0, 0, 0);
+  font: 700;
+  font-family: 'Bebas Neue', sans-serif;
+  text-shadow: 0.1em 0.1em 0.2em rgb(170, 211, 247);
+  text-align: center;
+  text-decoration: dashed;
+  font-size: 2.5rem;
+}
