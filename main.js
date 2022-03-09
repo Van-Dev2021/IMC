@@ -14,6 +14,26 @@ minhafuncao = function (){
   var deathD = parseInt(idade) * parseInt(365.5)
   var deathH = parseInt(idade) * parseInt(8772)
   var deatM = parseInt(idade) * parseInt(526320)
+  
+  
+  /* Possivel função para dar o numero do IMC e a resposta junto 
+  mediaImc = function () {
+      if (imc >= 18,5){
+        "Abaixo"
+      }
+        else if ( imc >= 18,5 && imc <= 24,9){
+        "Normal"   
+        }
+        else if ( imc >= 25 && imc <= 29,9){
+        "Sobreso"
+        }
+         else if ( imc >= 30 && imc <= 34,9){
+        "Obesidade"     
+         }
+       
+       }
+  */
+  
   document.write(`${nome}!!!<br/> Seu IMC é: ${imc}
   <br/> Seu nome completo tem  ${somaNo} letras
   <br/> Se somar seu nome à sua idade o resultado é: ${somaNoId} 
